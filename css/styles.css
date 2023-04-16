@@ -78,7 +78,12 @@
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
-
+:root {
+  --bs-primary: #d63384;
+  --bs-primary-rgb: 11, 0, 116;
+  --bs-secondary: #6f42c1;
+  --bs-secondary-rgb: 238, 143, 0;
+}
 *,
 *::before,
 *::after {
