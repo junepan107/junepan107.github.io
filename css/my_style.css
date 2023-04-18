@@ -13,6 +13,7 @@ h1,h2,h3,h4,h5,h6 .h1, .h2, .h3, .h4, .h5, .h6{
 }
 .expedu_icon{
     color:#495057
+    text-decoration: none;
 }
 .expedu_icon:hover{
     color:var(--bs-primary);
